@@ -1,4 +1,4 @@
-# UHF-Ground-Station
+# UHF-GroundStation-NonRotator
 This repo contains a non-rotator UHF ground station setup to receive LEO satellite signals.
 
 ## Scope
