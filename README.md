@@ -19,5 +19,5 @@ The content of this project, (such as; informative technical notes, conceptual d
 ### LinkBudget
 Includes a conceptual drawing and an analysis script to calculate; 
 - The distance between the ground station and the satellite,
-- Path loss between the ground station and the satellite,
+- The path loss between the ground station and the satellite,
 - The isoflux pattern to build an antenna to maintain the link margin in all elevation positions.
