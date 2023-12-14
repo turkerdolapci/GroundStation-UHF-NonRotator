@@ -14,3 +14,10 @@ Objective of this work is not only sharing the information but also to experienc
 
 ## License
 The content of this project, (such as; informative technical notes, conceptual drawings, analysis scripts and resulting visuals, design and simulation schematics, simulation results, circuit layouts, etc.) is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This project is not a software development project, but rather a problem analysis and system design project.
+
+## Directories
+### LinkBudget
+Includes a conceptual drawing and an analysis script to calculate; 
+-The distance between the ground station and the satellite,
+-Path loss between the ground station and the satellite,
+-The isoflux pattern to build an antenna to maintain the link margin in all elevation positions.
