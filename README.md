@@ -21,3 +21,6 @@ Includes a conceptual drawing and an analysis script to calculate;
 - The distance between the ground station and the satellite,
 - The path loss between the ground station and the satellite,
 - The isoflux pattern to build an antenna to maintain the link margin in all elevation positions.
+
+### AntennaCircuit
+Includes two different conceptual drawings of 4-way RF quadrature power splitters, using quadrature hybrids and baluns.
