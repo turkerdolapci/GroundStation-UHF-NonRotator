@@ -19,7 +19,7 @@ The main focus in this study is to receive the signals in the range 435 MHz to 4
 * [TAI-SAW TA0980A](https://www.taisaw.com/assets/PDF/TA0980A%20_Rev.4.0_.pdf)  (Center Frequency: 402 MHz, BW: 4 MHz)
 * [TAI-SAW TA2320A](https://www.rfmw.com/datasheets/taisaw/ta2320a%20_rev.1.0_.pdf)  (Center Frequency: 437.5 MHz, BW: 5 MHz)
 
-### Alternatices for Upper Band
+### Alternatives for Upper Band
 * [TAI-SAW TA1408A](https://www.taisaw.com/assets/PDF/TA1408A%20_Rev.1.0_.pdf)  (Center Frequency: 435 MHz, BW: 10 MHz)
 * [SHOULDER HDF434A1S6](https://www.rfmw.com/datasheets/shoulder/hdf434a1-s6.pdf) (Center Frequency: 434 MHz, BW: 10 MHz)
 
