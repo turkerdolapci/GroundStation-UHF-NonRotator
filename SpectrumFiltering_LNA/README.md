@@ -24,7 +24,7 @@ The main focus in this study is to receive the signals in the range 435 MHz to 4
 * [SHOULDER HDF434A1S6](https://www.rfmw.com/datasheets/shoulder/hdf434a1-s6.pdf) (Center Frequency: 434 MHz, BW: 10 MHz)
 
 ## Ready-to-use Filter Modules
-* [AliExpress Link for 403±20 MHz MHz and 433±5 MHz) BPF](https://www.aliexpress.com/item/1005003116760243.html)
+* [AliExpress Link for 403±20 MHz MHz and 433±5 MHz BPF](https://www.aliexpress.com/item/1005003116760243.html)
 * [AliExpress Link for FM Notch Filter](https://www.aliexpress.com/item/1005004825728733.html)
 
 ### BPF 403MHZ Test Results
